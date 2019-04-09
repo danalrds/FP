@@ -1,0 +1,10 @@
+1;Hobbit;17.0;20
+2;Young;12.0;30
+3;Todo;2.0;99
+4;Lena;19.0;100
+5;Solparami;8.0;88
+6;Nicandro;9.0;89
+7;Figarro;10.0;100
+8;Corraima;18.0;70
+9;Fantasma_en_el_opera;8.0;20
+10;Narcos;14.0;100

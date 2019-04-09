@@ -1,0 +1,5 @@
+Ciucas,blonda,6.75
+Ciucas,bruna,6.75
+Heineken,blonda,9.0
+Heineken,bruna,9.0
+Albacher,bruna,10.0
