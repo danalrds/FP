@@ -1,2 +1,2 @@
 # FP
-Fundamentals of Programming projects
+Fundamentals of Programming projects, labs and stuff
